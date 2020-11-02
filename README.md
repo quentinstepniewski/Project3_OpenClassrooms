@@ -18,6 +18,6 @@ Dataset used : https://world.openfoodfacts.org/data
 ## Assessed Skills:
 
 * Perform univariate analysis 
-* represent results thanks to clear and relevant graphs
+* Represent results thanks to clear and relevant graphs
 * Perform cleaning operations on structured dataset
 * Perform multivariate analysis
